@@ -1,0 +1,257 @@
+﻿0	Feist	The Reminder	1234
+0	PJ Harvey	Stories from the City, Stories from the Sea	Good Fortune
+0	Swans	The Seer	Lunacy
+0	Shellac	1000 Hurts	Prayer to God
+0	Talib Kweli	The Beautiful Struggle	Going Hard
+0	Arab Strap	The Last Romance	Stink
+0	Preoccupations	Preoccupations	Anxiety
+0	This Heat	Deceit	Sleep
+0	Boris	Pink	Pink
+0	Loskot	Sun	Born to Noise
+0	Mitch & Mitch	Luv Year Country	I'm 30, I'm Lonely + I'm Horny
+0	PRO8L3M	PRO8L3M	Molly
+0	Made in Poland	Future Time	Pada snieg
+0	Artur Rojek	Skladam sie z ciaglych powtorzen	Beksa
+0	Jambinai	Differance	Time of Extinction
+0	Devendra Banhart	Cripple Crow	Now That I Know
+0	Mudhoney	Superfuzz Bigmuff	Touch Me I'm Sick
+0	Napalm Death	Scum	Scum
+0	Lush	Lovelife	Ladykillers
+0	Thundercat	The Beyond/Where the Giants Roam	Them Changes
+0	Lightning Bolt	Wonderful Rainbow	Assasins
+0	Brodka	Granda	Granda
+0	Kaliber 44 	03:44	Normalnie o tej porze
+0	SBB	Memento z Banalnym Tryptykiem	Moja ziemio wysniona
+0	William Basinski	Melancholia	Melancholia II
+0	Derrick May	Innovator	Strings of Life
+0	Andrew Weatherall	The Bullet Catcher's Apprentice	Feathers
+0	Roman Flugel	Happiness Is Happening	Wilkie
+0	GusGus	Attention	Over
+0	Dj Koze	Amygdala	XTC
+0	Jaga Jazzist	A Livingroom Hush	Lithuania
+0	Kiasmos	Kiasmos	Looped
+0	Pantha du Prince	Black Noise	Lay in a Shimmer
+0	Pablopavo i Ludziki	Telehon	Dancingowa Piosenka Miłosna
+0	Jacek Sienkiewicz	Displaced	Drifting
+0	Ten Typ Mes	Kandydaci na Szalencow	CODZIENNOŚĆ
+0	Decapitated	Nihility	Spheres of Madness
+0	Kortez	Bumerang  	Dobry moment
+0	Kinsky	Copula Mundi	Night To Day
+0	Patti Smith	Horses 	Because the Night
+0	Run The Jewels	Run the Jewels 2	Legend Has It
+0	Ride	Nowhere	Vapour Trail
+0	The Dillinger Escape Plan	Ire Works	Symptom Of Terminal Illness
+0	Sunn O)))	Black One	It Took the Night to Believe
+0	Susanne Sundfor	Ten Love Songs	Reincarnation
+0	Mick Harvey	Two of Diamonds	Out of Time Man
+0	Xiu Xiu	Fabulous Muscles	I Luv the Valley OH!
+0	Slowdive	Souvlaki	Sugar For The Pill
+0	Belle & Sebastian	Dear Catastrophe Waitress	Piazza, New York Catcher
+0	The Jesus And Mary Chain	Psychocandy	Just Like Honey
+0	Neutral Milk Hotel	In the Aeroplane Over the Sea	In the Aeroplane Over the Sea
+0	Glenn Branca	The Ascension	Lesson No. 2
+0	Oranssi Pazuzu	Värähtelijä	Saturaatio
+0	Perfume Genius	Put Your Back N 2 It	Slip Away
+0	The Notwist	Neon Golden	Consequence
+0	Andrew W.K.	I Get Wet	Party Hard
+0	Nisennenmondai	Destination Tokyo	A
+0	Noon	Bleak Output	Satori
+0	The Smashing Pumpkins	Siamese Dream	1979
+0	My Bloody Valentine	Loveless	Only Shallow
+0	Godspeed You! Black Emperor	Yanqui U.X.O.	Undoing a Luciferian Towers
+0	John Talabot	Fin	Destiny feat. Pional
+0	Brutal Truth	Extreme Conditions Demand Extreme Responses	Birth of Ignorance
+0	The Pop Group	Y	She Is Beyond Good and Evil
+0	Julia Holter	Loud City Song	Sea Calls Me Home
+0	Goat	World Music	Run To Your Mama
+0	Deerhunter	Halcyon Digest	Revival
+0	Molesta	Ewenement	Wiedzialem, Ze Tak Bedzie
+0	Skalpel	Skalpel	Salvadanio
+0	Furia	Martwa Polska Jesien	Za ćmą, w dym
+0	Rebeka	Hellada	Stars
+0	Metronomy	The English Riviera	The Look
+0	Atari Teenage Riot	Delete Yourself!	Speed
+0	Charles Bradley	No Time For Dreaming	Changes
+0	Battles	Mirrored	Atlas
+0	Thurston Moore	Demolished Thoughts	Smoke Of Dreams
+0	Kim Gordon	Murdered Out	Murdered Out
+0	Stephen Malkmus	Face the Truth	Church on White
+0	Iggy And The Stooges	The Stooges	I Wanna Be Your Dog
+0	Mazzy Star	So Tonight That I Might See	Fade Into You
+0	Baroness	Blue Record	Shock Me
+0	Converge	Jane Doe	A Single Tear
+0	Nosowska	UniSexBlues	Nomada
+0	Profesjonalizm	Chopin Chopin Chopin	Długi
+0	Apteka	Menda	Synteza
+0	Cool Kids Of Death	Cool Kids of Death	Butelki z benzyną i kamienie
+0	Karbido	Karbido	Czołg
+0	Kode9	Black Sun/2 Far Gone	9 Samurai
+0	Kury	P.O.L.O.V.I.R.U.S.	Jesienna deprecha
+0	Kyst	Cotton Touch	Grass So Bright
+0	Kamp!	Kamp!	Cairo
+0	Male Bonding	Nothing Hurts	Her Fantasy
+0	Matthew Dear	Asa Breed	Bleed
+0	Merkabah	Moloch	Reed Idol
+0	Meshuggah	ObZen	Bleed
+0	Miss Polski	Fitness	Miss Piggy na parkiecie
+0	Mogwai	Mr. Beast	Auto Rock
+0	Moja Adrenalina	Nietoleruje-Bije	Reakcyjny knebel
+0	Muariolanza	Wszystko bedzie inaczej 	Falami
+0	Neon Indian	Era Extrana	Polish Girl
+0	Liars	Drum's Not Dead	The Other Side of Mt. Heart Atta
+0	Liturgy	Aesthethica	Generation
+0	The Lollipops	HOLD!	You Forgot My Name
+0	Low	Things We Lost In the Fire	Just Like Christmas
+0	L.Stadt	L.Stadt	 Ciggies 
+0	Olivia Anna Livki	The Name Of This Girl Is	Tel Aviv
+0	Omar Souleyman	Wenu Wenu	Wenu Wenu
+0	Oneida	Rated O	Up With People
+0	Oneohtrix Point Never	Replica	 Replica 
+0	Paris Tetris	Paristetris	Electrodomestics 
+0	Polvo	Today's Active Lifestyles	My Kimono
+0	Primal Scream	Screamadelica	Movin' On Up
+0	Public Image Ltd	Metal Box	 Rise 
+0	Ringo Deathstarr	Colour Trip	Kaleidoscope
+0	Sebadoh	Bakesale	On Fire
+0	Suuns	Zeroes QC	2020
+0	Tres.b	40 winks of courage	 The Goose Hangs High 
+0	Tryp	Kochanowka	Wędrówka Ludów
+0	Twilite	Bits & Pieces	 Fire 
+0	Twin Shadow	Forget	 Five Seconds 
+0	Warpaint	The Fool	Undertow
+0	Wojtek Mazolewski Quintet	Polka	 Get Free 
+0	YACHT	Shangri-La	Psychic City (Classixx Remix)
+0	Hotel Kosmos	Wszystkie stare kobiety miasta	Pokój dla królowej
+0	Potty Umbrella	All You Know Is Wrong	Message
+0	Kim Nowak	Kim Nowak	 King Kong 
+0	Voo Voo	21	Papierosy i gin
+0	The Horrors	Strange House	Still Life
+0	Lenny Valentino	Uwaga! Jedzie tramwaj	Chłopiec z plasteliny
+0	Tindersticks	Curtains 	Another Night In
+0	We Call It A Sound	Animated	Random Ambient
+0	19 Wiosen	Pedofil 	 Dystans 
+0	Something Like Elvis	Cigarette Smoke Phantom	Phantom
+0	Art Brut	Bang Bang Rock And Roll	 Emily Kane 
+0	The Fall	Shift-Work	Totally Wired
+0	Newest Zealand	Newest Zealand	 As Sure As Sunrise 
+0	Toro Y Moi	Causers of This	 Blessa 
+0	Black Heart Procession	2	 It's a Crime I Never Told You About the Diamonds in Your Eyes
+0	Efterklang	Tripper	Modern Drift
+0	A Place To Bury Strangers	A Place To Bury Strangers	 To Fix the Gash In Your Head 
+0	Tin Pan Alley	All Hail the Omnipotent Universe!	 Tafetta 
+0	The Psychic Paramount	II	 DDB 
+0	Baaba	Poope Musiqe 	Biegnij Kuba, biegnij
+0	Fennesz	Endless Summer	 Rivers of Sand 
+0	Zu	Carboniferous	 Carbon 
+0	Trans AM	Futureworld	Television Eyes
+0	Szelest Spadajacych Papierkow	plyta redlowska	ORP "Titanic"
+0	Dam Mantle	First Wave	 Theatre 
+0	Paula i Karol	Whole Again	 July 
+0	3moonboys	only music can save us	 Spit it out 
+0	Pustki	Koniec Kryzysu	Oranżada
+0	Muchy	Galanteria	Galanteria
+0	Archie Bronson Outfit	Derdnag	Dart For My Sweetheart
+0	Hey	Fire	Zazdrość
+0	Dinosaur Jr.	You're Living All Over Me	Little Fury Things
+0	manescape	Ex-Internal 	Absence of Silence
+0	Tunng	Good Arrows	Bullets
+0	Medwyn Goodall	Ancient Nazca - Inca Mysteries	Machu Picchu
+0	Mew	And the Glass Handed Kites	Special
+0	Lali Puna	Faking The Books	Faking The Books
+0	FM Belfast	How To Make Friends	Underwear
+0	Pink Freud	Sorry Music Polska	Come as You Are
+0	Mouse On Mars	Radical Connector	Yippie (Bitshifter version)
+0	A Hawk And A Hacksaw	Darkness At Noon	In The River
+0	Radio Dept.	Pet Grief	Heaven's On Fire
+0	Digital Mystikz	Return II Space	Neverland
+0	All Sounds Allowed	Festung Wroclaw	rust
+0	Tides From Nebula	Aura	Shall We?
+0	These Are Powers	 All Aboard Future	Life of Birds
+0	Ed Wood	anal animal	kochaj mnie a.k.a. heart me
+0	O.S.T.R.	Jazzurekcja	Dla tych kilku rzeczy
+0	Shearwater	Winged Life	Rooks
+0	The Raveonettes	Pretty in Black	The Christmas Song
+0	The Flaming Lips	Yoshimi Battles The Pink Robots	Do You Realize??
+0	Pulled Apart By Horses	Pulled Apart By Horses	High Five, Swan Dive, Nose Dive
+0	Lao Che	Gospel	Drogi Panie
+0	No Age	Nouns	Eraser
+0	Happy Pills	Smile	I Know
+0	Bear In Heaven	Beast Rest Forth Mouth	Lovesick Teenagers
+0	Dum Dum Girls	Only in Dreams	Coming Down
+0	Darkstar	North	Need You
+0	The Tallest Man On Earth	Shallow Grave	The Gardener
+0	Niwea	1	Klata piersiowa
+0	Damon And Naomi	Within These Walls	The Mirror Phase
+0	Tune-Yards	w h o k i l l	Bizness
+0	Shining	Blackjazz	Låt oss ta allt från varandra
+0	Philip Jeck	Sand	June
+0	Ecstatic Sunshine	Freckle Wars	Ramontana
+0	Matmos	The Civil War	For the Trees
+0	The National	Sad Songs for Dirty Lovers	Fake Empire
+0	Final Fantasy	Has a Good Home	This Lamb Sells Condos
+0	Spiritualized	Ladies and Gentlemen We Are Floating in Space	Ladies and Gentlemen We Are Floating in Space
+0	El Perro del Mar	From The Valley To The Stars	Change of Heart
+0	The Thermals	The Body, The Blood, The Machine	A Pillar of Salt
+0	Casiotone for the Painfully Alone	Etiquette	Cold White Christmas
+0	Frightened Rabbit	The Midnight Organ Fight	The Modern Leper
+0	These New Puritans	Hidden	Elvis
+0	Maria Peszek	Miasto Mania	Moje miasto
+0	Marissa Nadler	Songs III: Bird On The Water	Diamond Heart
+0	The Field	Sun & Ice	Over the Ice
+0	Olafur Arnalds	Found Songs	Near Light
+0	The Pains of Being Pure at Heart	The Pains of Being Pure at Heart	Young Adult Friction
+0	High Places	High Places vs. Mankind	From Stardust to Sentience
+0	Handsome Furs	Plague Park	What We Had
+0	HEALTH	HEALTH	Crimewave
+0	Fucked Up	David Comes To Life	Queen Of Hearts
+0	Mark Kozelek	What's Next To The Moon	Up To My Neck In You
+0	Komety	Komety	Miasto turystów
+0	Crystal Stilts	Alight of Night	The Dazzled
+0	Wavves	King Of The Beach	Up and Down
+0	Wire	Pink Flag	Ex Lion Tamer
+0	Wooden Shjips	West	Lazy Bones
+0	Lech Janerka	Plagiaty	Rower
+0	Iron & Wine	The Shepherd's Dog	Naked As We Came
+0	of Montreal	Hissing Fauna, Are You the Destroyer?	Gronlandic Edit
+0	British Sea Power	The Decline of British Sea Power	Waving Flags
+0	Caribou	Swim	Odessa
+0	Clinic	Walking With Thee	The Second Line
+0	Kammerflimmer Kollektief	Cicadidae	Neumond inselhin
+0	DAT Politics	Plugs Plus	Freak Me Out
+0	Waglewski Fisz Emade	Meska Muzyka	Dziób Pingwina
+0	Dick4Dick	Silver Ballads	Technology
+0	Singapore Sling	Perversity, Desperation And Death	Overdriver
+0	Homo Twist	Matematyk	Ni Siostry Ni Brata
+0	Afro Kolektyw	Piosenki Po Polsku	Czytaj z ruchu moich ust
+0	Plazmatikon	Dzemsesje	Drops
+0	New York Crasnals	Faces And Noises We Can Make	No Time
+0	Czeslaw Spiewa	Debiut	Żaba Tonie w Betonie
+0	Blue Raincoat	Small town addiction	Because the shell is empty
+0	Dezerter	Kolaboracja	Greetings from Poland
+0	Old Time Radio	Downtown	just because we were wrong
+0	Starzy Singers	Takie Jest C'est La Vie	Wąs
+0	Scianka	Dni Wiatru	Oceans Fall Down
+0	Low Frequency in Stereo	The Low Frequency in Stereo	Die Electro Voice
+0	Architecture in Helsinki	In Case We Die	Do The Whirlwind
+0	Piano Magic	 Disaffected	Disaffected
+0	PumaJaw	Featherdown Quilt	Featherdown Quilt
+0	Tymon & The Transistors	Bigos Heart	Bigos Heart
+0	Bassisters Orchestra	Numer Jeden	Test
+0	Pogodno	Cale Zycie Z Wariatami	Spierdalacz
+0	The Complainer	The Complainer & the Complainers	I Am So Alive
+0	Kobiety	Kobiety	Marcello
+0	Electrelane	 The Power Out	To the East
+0	Radian	Juxtaposition	Shift
+0	iLiKETRAiNS	ELEGIES TO LESSEONS LEARNT	Terra Nova
+0	The Syntetic	Tchnienie Mocy	Człowiek Widmo
+0	T.Love	I Hate Rock'N'Roll	Warszawa
+0	Strachy na Lachy	Pila  Tango	Czarny chleb i czarna kawa
+0	Delons	Wersja z napisami	Zdjęcia
+0	Iowa Super Soccer	Lullabies to keep your eyes closed 	Cold
+0	The Car Is on Fire	Lake & Flames	Can't Cook (Who Cares?)
+0	Renton	Take Off	This Is Not The End
+0	Psychocukier	No More Work!	Ametyst 104
+0	Sofa Surfers	Transit	Sofa Rockers (Richard Dorfmeister Remix)
+0	IAMX	Kingdom of Welcome Addiction	Spit It Out
+0	Bang Gang	Something Wrong	Follow
+0	Banco de Gaia	Last Train To Lhasa	Drippy
