@@ -140,38 +140,23 @@ left join music as m on b.id_band = m.id_music where b.since !=0 order by b.sinc
 select b.name_band, m.name_album, m.best_song, listeners_kilo as sluchacze from band as b
 left join music as m on b.id_band = m.id_music order by sluchacze desc limit 30;
 
-#6) Najwięcej/najmnniej z: tagu - do rozwiązania
-
-#select name_band from band where tag = (select count(tag) from band having (count(tag) =3)); 
-
-#select name_band, tag, (select count(distinct(tag))) from band order by tag;
+#6) Najwięcej/najmnniej z: tagu
 
 
-#select tag, count(*) as num from band group by tag order by num desc;
-
-#  tooo!!! :D
 select name_band, t.* from (select tag, count(*) as num from band group by tag) as t join band as b on t.tag = b.tag
 
 where num between 1 and 4 order by num;
 
 
+#7) Najwięcej/najmnniej z: kraju
 
-#select b.name_band, b.tag, count(*) as num from band as b group by b.tag order by num desc;
+select name_band, k.* from (select country, count(*) as num from band group by country) as k join band as b on k.country = b.country
 
-#select name_band, tag, count(*) as num from band union select name_band, tag, count(*) as num from band;
+where num <=10 order by country;
 
+#8) Najwięcej/najmnniej z: miasta
 
-#select name_band, tag,(select count(tag) from band group by tag having count(tag) = 11) as num from band having num = 'indie';
- #b.tag = (select count(*) as num1 from band group by b.tag having num1 = 11);
-
-#select name_band, tag from band where (select count(tag) as num from band group by tag having count(num) = 11);
-
-
-#select name_band, tag,(select count(*) from band group by tag) as num from band;
-
-#select b.name_band from band as b inner join music as m on b.id_band = m.id_music; 
-
-#select name_band, tag from band group by tag having (count(*) from band group by tag) = 2  ;
+select name_band, c.* from (select city, count(*) as num from band group by city) as c join band as b on c.city = b.city order by city;
 
 
 # II. ZAPYTANIA
