@@ -142,25 +142,32 @@ left join music as m on b.id_band = m.id_music order by sluchacze desc limit 30;
 
 #6) Najwięcej/najmnniej z: tagu - do rozwiązania
 
-select name_band from band where tag = (select count(tag) from band having (count(tag) =3)); 
+#select name_band from band where tag = (select count(tag) from band having (count(tag) =3)); 
 
-select name_band, tag, (select count(distinct(tag))) from band order by tag;
-
-
-select tag, count(*) as num from band group by tag order by num desc ;
-
-select b.name_band, b.tag, count(*) as num from band as b group by b.tag order by num desc;
-
-select name_band, tag, count(*) as num from band union select name_band, tag, count(*) as num from band;
+#select name_band, tag, (select count(distinct(tag))) from band order by tag;
 
 
-select name_band, tag,(select count(tag) from band group by tag having count(tag) = 11) as num from band having num = 'indie';
+#select tag, count(*) as num from band group by tag order by num desc;
+
+#  tooo!!! :D
+select name_band, t.* from (select tag, count(*) as num from band group by tag) as t join band as b on t.tag = b.tag
+
+where num between 1 and 4 order by num;
+
+
+
+#select b.name_band, b.tag, count(*) as num from band as b group by b.tag order by num desc;
+
+#select name_band, tag, count(*) as num from band union select name_band, tag, count(*) as num from band;
+
+
+#select name_band, tag,(select count(tag) from band group by tag having count(tag) = 11) as num from band having num = 'indie';
  #b.tag = (select count(*) as num1 from band group by b.tag having num1 = 11);
 
-select name_band, tag from band where (select count(tag) as num from band group by tag having count(num) = 11);
+#select name_band, tag from band where (select count(tag) as num from band group by tag having count(num) = 11);
 
 
-select name_band, tag,(select count(*) from band group by tag) as num from band;
+#select name_band, tag,(select count(*) from band group by tag) as num from band;
 
 #select b.name_band from band as b inner join music as m on b.id_band = m.id_music; 
 
