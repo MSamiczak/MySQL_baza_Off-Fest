@@ -49,16 +49,15 @@ load data local infile "D:/bazad/projekt/tab.band/off_fest.txt" into table festi
 select * from festival;
 
 create table lineup(
-id_band INT,
-name_band varchar (45) unique,
-id_off_1 int,
-id_off_2 int, 
-id_off_3 int
+id_lineup int primary key auto_increment,
+id_band INT not null,
+name_band varchar (45) not null,
+id_off int
 );
 
-#drop table linuep;
+#drop table lineup;
 
-load data local infile "D:/bazad/projekt/tab.band/off_lineup.txt" into table lineup;
+load data local infile "D:/rep_off/MySQL_baza_Off Fest/dane/off_lineup_t.txt" into table lineup;
 
 select * from lineup;
 
@@ -98,11 +97,13 @@ WHERE name_band like '%kamp%';
 
 select m.name_band, m. name_album, m.best_song, f.year
  from music as m inner join lineup as l on m.id_music = l.id_band 
- inner join festival as f on f.edition = l.id_off_1 where f.year = 2011;
+ inner join festival as f on f.edition = l.id_off where f.year = 2011;
 
  create view pl_off as select m.name_band, m. name_album, m.best_song, f.year
  from music as m inner join lineup as l on m.id_music = l.id_band 
- inner join festival as f on f.edition = l.id_off_1 where f.year = 2011;
+ inner join festival as f on f.edition = l.id_off where f.year = 2011;
+ 
+ #drop view pl_off;
 
  select *  from pl_off;
  

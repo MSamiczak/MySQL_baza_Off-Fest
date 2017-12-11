@@ -10,18 +10,3 @@
 0	Off Festival	Katowice	10	2015	null
 0	Off Festival	Katowice	11	2016	null
 0	Off Festival	Katowice	12	2017	null
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
