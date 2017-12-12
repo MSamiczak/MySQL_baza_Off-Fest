@@ -146,7 +146,12 @@ left join music as m on b.id_band = m.id_music order by sluchacze desc limit 30;
 
 select name_band, t.* from (select tag, count(*) as num from band group by tag) as t join band as b on t.tag = b.tag
 
-where num between 1 and 4 order by num;
+where num between 1 and 30 order by num;
+
+
+#best song
+select b.name_band, best_song, t.* from (select tag, count(*) as num from band group by tag) as t join band as b 
+on t.tag = b.tag join music as m on m.id_music = b.id_band where num between 1 and 30 order by num;
 
 
 #7) Najwięcej/najmnniej z: kraju
