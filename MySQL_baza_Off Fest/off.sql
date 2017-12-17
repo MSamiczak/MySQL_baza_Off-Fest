@@ -37,14 +37,14 @@ create table festival(
 id_off INT PRIMARY KEY AUTO_INCREMENT,
 name_f  varchar (45),
 city_fest text,
-edition int, 
+edition varchar(1), 
 year int,
 people int
 );
 
-#drop table festival;	
+drop table festival;	
 
-load data local infile "D:/bazad/projekt/tab.band/off_fest.txt" into table festival;
+load data local infile "G:/repo/Baza_MySQL/off/MySQL_baza_Off Fest/dane/off_fest.txt" into table festival;
 
 select * from festival;
 
@@ -61,24 +61,16 @@ load data local infile "D:/rep_off/MySQL_baza_Off Fest/dane/off_lineup_t.txt" in
 
 select * from lineup;
 
-create table user_choice(
-id_band INT PRIMARY KEY auto_increment,
-name_band  varchar (45) unique,
-city varchar(45),
-country varchar(10),
-tag varchar(25), 
-since year, 
-listeners_k float,
-name_album text,
-best_song text,
-id_off_1 int,
-id_off_2 int, 
-id_off_3 int,
-Ocena_1do10 int
+create table user(
+id INT PRIMARY KEY auto_increment,
+login varchar (45) unique,
+pass varchar(45),
+user_group int(1)
 );
 
-#drop table user_choice;
-select * from user_choice;
+drop table user;
+
+select * from user;
 
 INSERT INTO user_choice (name_band, city, country, tag, since, listeners_k, name_album, best_song, id_off_1, id_off_2, id_off_3)
   SELECT b.name_band, b.city, b.country, b.tag, b.since, b.listeners_kilo, m.name_album, m.best_song, l.id_off_1, l.id_off_2, l.id_off_3
@@ -97,7 +89,8 @@ WHERE name_band like '%kamp%';
 
 select m.name_band, m. name_album, m.best_song, f.year
  from music as m inner join lineup as l on m.id_music = l.id_band 
- inner join festival as f on f.edition = l.id_off where f.year = 2011;
+ inner join festival as f on f.edition = l.id_off where f.year = 2011 order by name_band asc;
+ 
 
  create view pl_off as select m.name_band, m. name_album, m.best_song, f.year
  from music as m inner join lineup as l on m.id_music = l.id_band 
@@ -113,7 +106,7 @@ select m.name_band, m. name_album, m.best_song, f.year
  
  select b.tag, b.name_band, m.name_album, m.best_song from band as b 
  left join music as m on b.id_band = m.id_music 
- where tag = (select tag from band where name_band like '%kamp%') limit 20;
+ where tag = (select tag from band where name_band like '%kamp%') limit 3;
 
 create view sim_band as select b.tag, b.name_band, m.name_album, m.best_song from band as b 
  left join music as m on b.id_band = m.id_music 
@@ -147,6 +140,10 @@ left join music as m on b.id_band = m.id_music order by sluchacze desc limit 30;
 select name_band, t.* from (select tag, count(*) as num from band group by tag) as t join band as b on t.tag = b.tag
 
 where num between 1 and 30 order by num;
+select b.name_band, b.country, b.city,b.since, b.listeners_kilo, b.tag, m.name_album, m.best_song from music as m inner join lineup as l on m.id_music = l.id_band inner join festival as f on f.edition = l.id_off join band as b on b.id_band = m.id_music where f.edition = 4 order by b.listeners_kilo asc;
+
+select b.name_band, b.country, b.city,b.since, b.listeners_kilo, b.tag, m.name_album, m.best_song from music as m inner join lineup as l on m.id_music = l.id_band inner join festival as f on f.edition = l.id_off join band as b on b.id_band = m.id_music where f.edition = 3 order by listeners_kilo asc;
+
 
 
 #best song
@@ -158,7 +155,7 @@ on t.tag = b.tag join music as m on m.id_music = b.id_band where num between 1 a
 
 select name_band, k.* from (select country, count(*) as num from band group by country) as k join band as b on k.country = b.country
 
-where num <=10 order by country;
+where num >= 1 order by num desc;
 
 #8) Najwięcej/najmnniej z: miasta
 
