@@ -1,0 +1,1 @@
+Zaprojektowanie relacyjnej bazy danych przechowującej informacje o wydarzeniu muzycznym Off Festiwal organizowanym corocznie w Katowicach. W bazie znajdują się dane 250 artystów powiązanych z Off Festiwalem.
